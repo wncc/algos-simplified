@@ -1,6 +1,6 @@
-# Sorting Algorithm
+# Sorting Algorithms
 
-These videos will help you visualise these algorithm better.
+These videos will help you visualise these algorithms better.
 
 [**Quick Sort**](https://www.youtube.com/watch?v=aXXWXz5rF64)
 
