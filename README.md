@@ -4,8 +4,15 @@
 
 Greetings from the Web & Coding Club!
 
-Short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared on a weekly basis. This is a series where we **do not require you to code**. You can just watch some short 4-5 min video to learn something cool, that’s it!
+WnCC proudly presents __Algorithms Simplified__. This is a series where we **do not require you to code**. You can just watch a 15 min video to learn something cool, that’s it!
 
-1. [Sorting Algorithms](./Sorting_Algorithm/README.md)
+Here's the list of topics covered till now:
+- [Sorting Algorithms](./Sorting_Algorithm/README.md)
 
+Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
 
+Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
+
+***
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
