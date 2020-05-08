@@ -14,7 +14,7 @@ Look at these videos to learn how same things can be done to sort number arrays:
 - [Merge Sort](https://www.youtube.com/watch?v=JSceec-wEyw)
 - [Quick Sort](https://www.youtube.com/watch?v=PgBzjlCcFvc)
 
-### Dive Deep:
+## Dive Deep:
 Try writing code for sorting an array using both Quick sort and Merge sort algorithms. [Recursion](https://www.geeksforgeeks.org/recursion/) is the key to both.     
 * **Quick Sort:** QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
 
