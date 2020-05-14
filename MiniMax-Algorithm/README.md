@@ -17,7 +17,7 @@ Take a look at this short video which will help you understand the basic concept
  It is called Alpha-Beta pruning because it passes 2 extra parameters in the minimax function, namely alpha and beta.
 <br>
  
- Checkout this video which explains aplha-beta pruning in much more detail - <br>
+ Checkout this video which explains alpha-beta pruning in much more detail - <br>
  [Alpha-Beta Pruning](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
  <br>
 
