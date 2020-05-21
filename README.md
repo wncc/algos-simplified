@@ -9,6 +9,7 @@ WnCC proudly presents __Algorithms Simplified__. This is a series where we **do 
 Here's the list of topics covered till now:
 - [Sorting Algorithms](./Sorting_Algorithm/README.md)
 - [Mini-Max Algorithm](./MiniMax-Algorithm/README.md)
+- [Shotest Path Algorithms (Basic)](./Shortest_Path_Algorithms_Basic/README.md)
 
 Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
 
