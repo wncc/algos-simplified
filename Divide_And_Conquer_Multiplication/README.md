@@ -11,7 +11,7 @@ Karatsuba's algorithm basically splits your number into two numbers at it's midp
 This [video](https://www.youtube.com/watch?v=JCbZayFr9RE) provides a simple and gentle introduction to Karatsuba. 
 I personally found [these](http://web.stanford.edu/class/cs161/Lectures/Lecture1/Lecture1-compressed.pdf) slides from the CS 161 Algorithms course of Stanford very easy to read and englightening. Karatsuba is explained in a very simple and nice manner here with more details such as the time complexity of the algorithm. You might want to start from slide number 38 as the beginning focuses on their course details.
 
-Let us know try to multiply matrices more quickly using divide and conquer.
+Let us now try to multiply matrices more quickly using divide and conquer.
 
 ## Strassen's Algorithm
 
