@@ -9,13 +9,13 @@ It turns out we can. The main idea is to reduce the problem into smaller subprob
 Karatsuba's algorithm basically splits your number into two numbers at it's midpoint. For instance 1423 can be written as 100(14) + (23). We can express the product of 1423 with another number in terms of the products of the smaller terms (14, 23) with the smaller terms of the other number. We will then combine these terms to get the final resultant product.
 
 This [video](https://www.youtube.com/watch?v=JCbZayFr9RE) provides a simple and gentle introduction to Karatsuba. 
-I personally found [these] (http://web.stanford.edu/class/cs161/Lectures/Lecture1/Lecture1-compressed.pdf) slides from the CS 161 Algorithms course of Stanford very easy to read and englightening. Karatsuba is explained in a very simple and nice manner here with more details such as the time complexity of the algorithm. You might want to start from slide number 38 as the beginning focuses on their course details.
+I personally found [these](http://web.stanford.edu/class/cs161/Lectures/Lecture1/Lecture1-compressed.pdf) slides from the CS 161 Algorithms course of Stanford very easy to read and englightening. Karatsuba is explained in a very simple and nice manner here with more details such as the time complexity of the algorithm. You might want to start from slide number 38 as the beginning focuses on their course details.
 
 Let us know try to multiply matrices more quickly using divide and conquer.
 
 ## Strassen's Algorithm
 
-The main insight in Karatsuba's algorithm was that by dividing the problem into subproblems of half the size we could reduce the number of operations. You should notice and prove that if we do four multiplications (or solve four subproblems) in total for combining the subproblems, we still end up with a quadratic algorithm for multiplication. Karatsuba gave us benefits because we could bring this count of four down to three. Maybe we can do somethign similar for square matrices?
+The main insight in Karatsuba's algorithm was that by dividing the problem into subproblems of half the size we could reduce the number of operations. You should notice and prove that if we do four multiplications (or solve four subproblems) in total for combining the subproblems, we still end up with a quadratic algorithm for multiplication. Karatsuba gave us benefits because we could bring this count of four down to three. Maybe we can do something similar for square matrices?
 
 Turns out we can. The main idea is to consider block matrices in the square matrices. Breaking down the multiplication into multiplications of the block matrices (total of 8) still results in a cubic algorithm for multiplying which is the same as the naive multiplication algorithm. However again we can clever bring this number down to 7 leading to a speed up.
 
@@ -39,7 +39,7 @@ You can also refer to [this](https://cp-algorithms.com/algebra/fft.html) article
 
 1. We talked about using Karatsuba for integer multiplication. Can you modify it for Polynomials? This will be slower than FFT but it will be far far simpler right?
 2. These two codechef problems, [REBTET](https://discuss.codechef.com/t/rebtet-editorial/11880) and [BINOFEV](https://www.codechef.com/DEC19A/problems/BINOFEV/) can be solved with FFT. You should try to find the polynomials that can be used to solve these problems and then try to use FFT to multiply the polynomials and solve the problem.
-3. [This] (https://codeforces.com/contest/528/problem/D) is a relatively simpler codeforces problem which can be solved with FFT.
+3. [This](https://codeforces.com/contest/528/problem/D) is a relatively simpler codeforces problem which can be solved with FFT.
 4. Understanding Strassen's algorithm is one thing, implementing it is another. Implement Strassen's algorithm in C++/Python and compare it's performance with the naive matrix multiplication algorithm.
 
 That's it for today. Hope you all had fun!
