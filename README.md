@@ -11,6 +11,7 @@ Here's the list of topics covered till now:
 - [Mini-Max Algorithm](./MiniMax-Algorithm/README.md)
 - [Shotest Path Algorithms (Basic)](./Shortest_Path_Algorithms_Basic/README.md)
 - [Heuristic Algorithms](./Heuristic-Algorithms/README.md)
+- [Fast Multiplication using Divide and Conquer](./Divide_And_Conquer_Multiplication/README.md)
 
 Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
 
