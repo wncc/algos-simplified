@@ -28,7 +28,7 @@ Refer to [this](https://www.youtube.com/watch?v=lnKPoWZnNNM) video, for an expla
 - [Doing the calculations by hand](https://www.youtube.com/watch?v=Sy0sXa73PZA&t=536s)
 
 ## DIVE DEEP
-You have been delivered with sufficient logics required to code these algos. You can write your own codes vis this.
+You have been delivered with sufficient logics required to code these algos. You can write your own codes via this.
 If you are pretty unsure about DES and AES, [this](https://www.youtube.com/watch?v=DGWpU4fHNAA&t=191s) and [this](https://www.youtube.com/watch?v=0quqUtrEWk8&t=8s) respectively will help you see the implementation for the same.
 
 
