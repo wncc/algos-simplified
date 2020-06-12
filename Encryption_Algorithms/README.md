@@ -23,8 +23,7 @@ Refer to [this](https://www.youtube.com/watch?v=lnKPoWZnNNM) video, for an expla
 
 
 
-An Example of **Symmetric Encrytion**
-## DES ( Data Encryption Standard )
+## An Example of **Symmetric Encrytion**: DES ( Data Encryption Standard )
 - [Basic Explation](https://www.youtube.com/watch?v=3BZRBfhpIb0)
 - [Doing the calculations by hand](https://www.youtube.com/watch?v=Sy0sXa73PZA&t=536s)
 
