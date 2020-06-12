@@ -32,9 +32,9 @@ You have been delivered with sufficient logics required to code these algos. You
 If you are pretty unsure about DES and AES, [this](https://www.youtube.com/watch?v=DGWpU4fHNAA&t=191s) and [this](https://www.youtube.com/watch?v=0quqUtrEWk8&t=8s) respectively will help you see the implementation for the same.
 
 
-Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
+Great work in understanding the Algorithms! If you have any doubts in any of the algorithms feel free to discuss them on our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ).
 
-Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
+We hope you liked this tutorial, as we have more coming up, next week on *Algorithms, Simplified*.
 
 ***
 
