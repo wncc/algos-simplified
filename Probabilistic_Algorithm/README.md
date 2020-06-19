@@ -41,3 +41,12 @@ Read more about Las-Vegas and its applications [Here](https://docs.google.com/do
 A great application of Las Vegas Algorithm is the Randomized Binary Search Algorithm. [Read about it here](https://www.geeksforgeeks.org/randomized-binary-search-algorithm/)
 
 Read more about Sherwood [Here](https://docs.google.com/document/d/1gUroGJeBrjHUuf5uiw8UM0JdqeSy3vq-ZUqqM7VU5oM/edit#)
+
+
+Great work in understanding the Algorithms! If you have any doubts in any of the algorithms feel free to discuss them on our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ).
+
+We hope you liked this tutorial, as we have more coming up, next week on *Algorithms, Simplified*.
+
+***
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
