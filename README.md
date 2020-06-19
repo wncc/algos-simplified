@@ -13,6 +13,7 @@ Here's the list of topics covered till now:
 - [Heuristic Algorithms](./Heuristic-Algorithms/README.md)
 - [Fast Multiplication using Divide and Conquer](./Divide_And_Conquer_Multiplication/README.md)
 - [Encryption Algorithms](./Encryption_Algorithms/README.md)
+- [Probabilistic_Algorithms](./Probabilistic_Algorithm/README.md)
 
 Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
 
