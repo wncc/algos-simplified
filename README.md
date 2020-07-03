@@ -15,6 +15,7 @@ Here's the list of topics covered till now:
 - [Encryption Algorithms](./Encryption_Algorithms/README.md)
 - [Probabilistic_Algorithms](./Probabilistic_Algorithm/README.md)
 - [Wumpus World Agent](https://github.com/wncc/algos-simplified/tree/master/Wumpus%20World)
+- [Object Detection](https://github.com/wncc/algos-simplified/tree/master/Object%20Detection%20Algorithms)
 
 Every Friday, short videos trivially explaining some mind-blowing yet intuitive algorithms will be shared, along with **optional**  tasks for those who want to code and implement those algorithms in a *Dive Deep* section as well.
 
