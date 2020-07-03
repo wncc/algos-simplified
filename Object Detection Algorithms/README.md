@@ -82,7 +82,7 @@ There are a few challenges faced by this Algorithm. Let us first get through the
 * Small objects are hard to detect because of the fact they may not appear in all feature maps.
 * A large amount of time is spent on the CNN used (VGG-16), that means that one can make SSD faster by a great factor if we can come up with a more efficient and simpler architecture. 
 
-## You Look Only Once (YOLO)
+## You Only Look Once (YOLO)
 
 This has revolutionised the Object Detection Domain but pretty accurate and time efficient results. 
 
