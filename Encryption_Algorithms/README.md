@@ -3,7 +3,7 @@
 Looking forward to explore **Cyber Security**? Bringing to you **Encryption Algorithms** to lay some foundation about how things happen in CSec.
 
 ## What is Encryption ?
-Encryption algorithms are used in cryptography to transfer information between two people such that the thord person trying to steal information from you doesn't get the information.
+Encryption algorithms are used in cryptography to transfer information between two people such that the third person trying to steal information from you doesn't get the information.
 To understand more about this refer to this video: [Encryption and it's types](https://www.youtube.com/watch?v=AQDCe585Lnc)
 
 Once, you have understood what it is, let's move on to How it's done. We'll study about **Asymmetric Encrytion** here. 
